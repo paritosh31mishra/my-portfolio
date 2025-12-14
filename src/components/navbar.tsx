@@ -10,13 +10,13 @@ const Navbar = () => {
     { id: 'portfolio', label: 'Portfolio' },
   ];
 
-  const [activeTab, setActiveTab] = useState<Tab>('about');
+  const [activeTab, setActiveTab] = useState<string>('about');
   const navigate = useNavigate();
   const location = useLocation();
 
   /** Sync URL → activeTab */
   useEffect(() => {
-    const current = location.pathname.replace('/', '') as Tab;
+    const current = location.pathname.replace('/', '') as string;
     if (tabs.some((t) => t.id === current)) {
       setActiveTab(current);
     }
