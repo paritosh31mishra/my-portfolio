@@ -77,7 +77,7 @@ export const AboutSection = () => {
             <Code className="text-cyan-400 mb-4" size={32} />
             <h4 className="text-lg font-bold text-white mb-2">Problem Solving</h4>
             <p className="text-gray-400 text-sm leading-relaxed">
-              Strong grasp of Data Structures and Algorithms with over 600 problems solved across LeetCode, GFG, and
+              Strong grasp of Data Structures and Algorithms with over 700 problems solved across LeetCode, GFG, and
               HackerRank.
             </p>
           </div>
