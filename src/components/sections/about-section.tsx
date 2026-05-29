@@ -10,13 +10,13 @@ export const AboutSection = () => {
         <p>
           I am <span className="text-white font-semibold">Paritosh Mishra</span>, a Software Developer based in
           Bangalore, Karnataka. I have a strong foundation in{" "}
-          <span className="text-cyan-400">React JS, TypeScript, JavaScript, DataStructures, C++, Java, Node JS, Express JS, Git</span>.
+          <span className="text-cyan-400">Java, DataStructures, JavaScript, React JS, TypeScript, SAPUI5, C++, Node JS, Express JS, Git, Github/GitLab</span>.
         </p>
         <p>
           Passionate about building scalable solutions, I hold a Master of Computer Applications from the National
-          Institute of Technology (NIT), Raipur. Currently working at <span className="text-white">Entries.AI</span>, I
+          Institute of Technology (NIT), Raipur. Currently working at <span className="text-white">IBM</span>, I
           specialize in full-stack development, creating intuitive user interfaces and robust backend systems. My
-          journey involves continuous learning and applying modern technologies like React.js, Node.js, and AI tools to
+          journey involves continuous learning and applying modern technologies like Java, React.js, Typescript, and AI tools to
           solve real-world problems.
         </p>
       </div>
@@ -24,13 +24,13 @@ export const AboutSection = () => {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-8">
         <div className="bg-[#1a1a1a] p-6 rounded-2xl border border-white/5 hover:border-cyan-400/30 transition-colors group">
           <div className="text-4xl font-bold text-cyan-400 mb-1 group-hover:scale-110 transition-transform origin-left">
-            1+
+            1.5
           </div>
           <div className="text-sm text-gray-400 uppercase tracking-wider font-medium">Years Experience</div>
         </div>
         <div className="bg-[#1a1a1a] p-6 rounded-2xl border border-white/5 hover:border-cyan-400/30 transition-colors group">
           <div className="text-4xl font-bold text-cyan-400 mb-1 group-hover:scale-110 transition-transform origin-left">
-            600+
+            700+
           </div>
           <div className="text-sm text-gray-400 uppercase tracking-wider font-medium">DSA Problems Solved</div>
         </div>
@@ -42,7 +42,7 @@ export const AboutSection = () => {
         </div>
         <div className="bg-[#1a1a1a] p-6 rounded-2xl border border-white/5 hover:border-cyan-400/30 transition-colors group">
           <div className="text-4xl font-bold text-cyan-400 mb-1 group-hover:scale-110 transition-transform origin-left">
-            200+
+            400+
           </div>
           <div className="text-sm text-gray-400 uppercase tracking-wider font-medium">Github Contributions</div>
         </div>
