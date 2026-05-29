@@ -5,10 +5,21 @@ import { Briefcase, GraduationCap, Code2, ExternalLink } from 'lucide-react';
 export function ResumeSection() {
   // EXPERIENCE DATA
   const experiences = [
+     {
+      role: 'Application Developer',
+      company: 'IBM',
+      duration: 'April 2026 — Present',
+      description:
+        'IBM (International Business Machines) is a global technology and consulting company, founded in 1911, known for pioneering innovations in computing, AI, and enterprise solutions.',
+      points: [
+        'Tech Stack: Java, JavaScript, React JS, TypeScript, SAP UI5, Git, Jira, VS Code'
+      ],
+      highlightDot: true,
+    },
     {
       role: 'Software Developer',
       company: 'Entries.AI',
-      duration: 'March 2025 — Present',
+      duration: 'March 2025 — April 2026',
       description:
         'A product-based company that provides AI-powered cloud business solutions.',
       points: [
@@ -64,6 +75,7 @@ export function ResumeSection() {
         'TypeScript',
         'JavaScript',
         'Tailwind CSS',
+        'SAPUI5',
         'HTML/CSS',
       ],
     },
