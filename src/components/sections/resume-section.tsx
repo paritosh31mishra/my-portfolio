@@ -85,7 +85,7 @@ export function ResumeSection() {
     },
     {
       title: 'Tools & AI',
-      skills: ['Github Copilot', 'Claude', 'Codex', 'V0', 'Bolt', 'Git', GitHub/GitLab', 'VS Code', 'Postman', 'Jira'],
+      skills: ['Github Copilot', 'Claude', 'Codex', 'V0', 'Bolt', 'Git', 'GitHub/GitLab', 'VS Code', 'Postman', 'Jira'],
     },
   ];
 
