@@ -74,18 +74,18 @@ export function ResumeSection() {
         'React.js',
         'TypeScript',
         'JavaScript',
-        'Tailwind CSS',
         'SAPUI5',
+        'Tailwind CSS',
         'HTML/CSS',
       ],
     },
     {
       title: 'Backend',
-      skills: ['Node.js', 'Java', 'C', 'Express.js', 'Frappe Framework'],
+      skills: ['Java', 'Node.js', 'C++', 'Express.js', 'Frappe Framework'],
     },
     {
       title: 'Tools & AI',
-      skills: ['Git & GitHub', 'VS Code', 'Postman', 'Jira', 'V0', 'Bolt'],
+      skills: ['Github Copilot', 'Claude', 'Codex', 'V0', 'Bolt', 'Git', GitHub/GitLab', 'VS Code', 'Postman', 'Jira'],
     },
   ];
 
