@@ -24,7 +24,7 @@ export const AboutSection = () => {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-8">
         <div className="bg-[#1a1a1a] p-6 rounded-2xl border border-white/5 hover:border-cyan-400/30 transition-colors group">
           <div className="text-4xl font-bold text-cyan-400 mb-1 group-hover:scale-110 transition-transform origin-left">
-            1.5
+            2
           </div>
           <div className="text-sm text-gray-400 uppercase tracking-wider font-medium">Years Experience</div>
         </div>
