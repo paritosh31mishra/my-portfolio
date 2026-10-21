@@ -9,7 +9,7 @@ export const PortfolioSection = () => {
       category: "Full Stack Web App",
       description:
         "A responsive web application for managing products, customers, and generating bills of product sales.",
-      image: "/billing.png",
+      image: "/Billing_Flow.png",
       tech: ["React.js", "Node.js", "Express JS", "JavaScript", "Html", "Css", "Apis", "MongoDB"],
       url: "https://billing-project-1.onrender.com/",
     },
