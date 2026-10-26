@@ -13,15 +13,15 @@ export const PortfolioSection = () => {
       tech: ["React.js", "Node.js", "Express JS", "JavaScript", "Html", "Css", "Apis", "MongoDB"],
       url: "https://billing-project-1.onrender.com/",
     },
-    // {
-    //   title: "Project Tracking Module",
-    //   category: "Enterprise Feature",
-    //   description:
-    //     "Owned and delivered the entire Project Tracking module UI and API integrations single-handedly at Entries.AI.",
-    //   image: "/project-management-software-ui.jpg",
-    //   tech: ["TypeScript", "React", "Frappe"],
-    //   url: "#",
-    // },
+    {
+      title: "Morrow Marketplace",
+      category: "Full Stack Application",
+      description:
+        "Morrow Market is a multi-seller marketplace. Buyers can browse products, keep a cart, and place orders. Sellers can list products, manage stock, restock products, and see the order lines for their own products.",
+      image: "/project-management-software-ui.jpg",
+      tech: ["React JS", "React hooks", "React Router", "JavaScript", "JWT", "Node JS", "Express JS", "Mongo DB Atlas", "Tailwind CSS", "Render"],
+      url: "https://morrow-market-vb1m.onrender.com/",
+    },
     {
       title: "Open Weather",
       category: "FullStack Web App",
