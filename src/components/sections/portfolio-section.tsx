@@ -18,7 +18,7 @@ export const PortfolioSection = () => {
       category: "Full Stack Application",
       description:
         "Morrow Market is a multi-seller marketplace. Buyers can browse products, keep a cart, and place orders. Sellers can list products, manage stock, restock products, and see the order lines for their own products.",
-      image: "/project-management-software-ui.jpg",
+      image: "/morrow-marketplace.png",
       tech: ["React JS", "React hooks", "React Router", "JavaScript", "JWT", "Node JS", "Express JS", "Mongo DB Atlas", "Tailwind CSS", "Render"],
       url: "https://morrow-market-vb1m.onrender.com/",
     },
