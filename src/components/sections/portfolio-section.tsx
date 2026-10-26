@@ -6,9 +6,9 @@ export const PortfolioSection = () => {
   const projects = [
     {
       title: "Billing System",
-      category: "Full Stack Web App",
+      category: "Full Stack web Application",
       description:
-        "A responsive web application for managing products, customers, and generating bills of product sales.",
+        "BillingFlow helps admins to manage customers, products, and invoices in one place. It tracks product stock and updates or removes products as bills are generated.",
       image: "/Billing_Flow.png",
       tech: ["React.js", "Node.js", "Express JS", "JavaScript", "Html", "Css", "Apis", "MongoDB"],
       url: "https://billing-project-1.onrender.com/",
