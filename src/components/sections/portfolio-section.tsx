@@ -10,7 +10,7 @@ export const PortfolioSection = () => {
       description:
         "BillingFlow helps admins to manage customers, products, and invoices in one place. It tracks product stock and updates or removes products as bills are generated.",
       image: "/Billing_Flow.png",
-      tech: ["React.js", "Node.js", "Express JS", "JavaScript", "Html", "Css", "Apis", "MongoDB"],
+      tech: ["React JS", "React hooks", "React Router", "JavaScript", "JWT", "Node JS", "Express JS", "Mongo DB Atlas", "Tailwind CSS", "Render"],
       url: "https://billing-project-1.onrender.com/",
     },
     {
@@ -23,12 +23,12 @@ export const PortfolioSection = () => {
       url: "https://morrow-market-vb1m.onrender.com/",
     },
     {
-      title: "Open Weather",
-      category: "FullStack Web App",
-      description: "Open Weather is a web application that provides real-time weather data. The application allows users to view weather information for various cities.",
-      image: "/OpenWeather.png",
-      tech: ["React.js", "Node.js", "Express JS", "JavaScript", "Html", "Css", "Apis", "MongoDB"],
-      url: "https://weather-application-1-reactapp.onrender.com/",
+      title: "Skyscape Weather Application",
+      category: "FullStack Web Application",
+      description: "Skyscape is a responsive weather application for checking current conditions and forecasts for your location or places around the world. It combines a React frontend with a Node.js and Express API, MongoDB storage, and JWT-based accounts.",
+      image: "/Skyscape.png",
+      tech: ["React JS", "React hooks", "React Router", "JavaScript", "JWT", "Node JS", "Express JS", "Mongo DB Atlas", "Tailwind CSS", "Render"],
+      url: "https://skyscape-ijbp.onrender.com/",
     },
     {
       title: "Feedback Portal",
